@@ -1,0 +1,39 @@
+body{
+ background: #D1EEEE;
+ font-family:serif;
+
+}
+h1{
+ font-size: 2em;
+ border:8px purple;
+ border-style:double;
+ box-shadow:2px 2px 2px;
+ font-style:italic;
+ border-radius:10px;
+
+}
+
+p{
+ font-size:1em;
+ font-weight:bold;  
+
+}
+h2{
+
+ font-size: 1.5em;
+ border:8px purple;
+ border-style:double;
+ box-shadow:2px 2px 2px;
+ font-style:italic;
+ border-radius:10px;
+
+}
+
+h3{
+ font-size: 1.1em;
+ border:6px purple;
+ border-bottom-style:double;
+ border-radius:10px;
+
+}
+
